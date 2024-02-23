@@ -1,1 +1,2 @@
-Image is from one of my favortie films: <b>Death Proof</b>
+- Image is from one of my favortie films: <b>Death Proof</b>
+- Don't just stare at it rather hover over the picture
